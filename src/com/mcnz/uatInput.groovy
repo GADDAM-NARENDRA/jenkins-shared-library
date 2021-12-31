@@ -3,7 +3,7 @@ package com.mcnz
 public class uatInput {
 
   def buildIsUatApproved() {
-    def file = new File("C:\tools\sample")
+    def file = new File("C:\tools\sss")
     
     if (file.exists()){
       return true;
